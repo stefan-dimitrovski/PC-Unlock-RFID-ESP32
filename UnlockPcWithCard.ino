@@ -1,6 +1,6 @@
 #include <MFRC522.h> //library responsible for communicating with the module RFID-RC522
 #include <SPI.h> //library responsible for communicating of SPI bus
-#include <BleKeyboard.h>
+#include <BleKeyboard.h> //https://github.com/T-vK/ESP32-BLE-Keyboard
 #define SS_PIN 21
 #define RST_PIN 22
 
